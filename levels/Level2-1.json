@@ -1,0 +1,59 @@
+{
+  "id":4,
+  "length":60,
+  "level":{
+    "objects": {
+      "bush":[
+
+      ],
+      "sky": [
+
+      ],
+      "cloud":[
+
+      ],
+      "pipe":[
+
+      ],
+      "ground":[
+
+      ]
+    },
+    "layers": {
+      "sky":{
+        "x":[0,60],
+        "y":[0,13]
+      },
+      "ground":{
+        "x":[0,60],
+        "y":[14,16]
+      }
+    },
+    "entities": {
+      "CoinBox":[
+
+      ],
+      "coinBrick":[
+
+      ],
+      "coin":[
+
+      ],
+      "Goomba":[
+        [12,12],
+        [12,15],
+        [10,8]
+      ],
+      "Koopa":[
+        [12,25],
+        [12,22],
+        [12,33],
+        [12,40]
+      ],
+      "RandomBox":[
+        [4, 3, "RedMushroom"],
+        [52, 2, "RedMushroom"]
+      ]
+    }
+  }
+}
